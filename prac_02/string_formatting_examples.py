@@ -33,7 +33,7 @@ number = [0, 50, 100]
 for i in range(len(number)):
     print("{1:>3}".format(i + 1, number[i]))
 
-# TODO: Using a for loop with the range function and string formatting,
+# ODO: Using a for loop with the range function and string formatting,
 # produce the following output:
 #   0
 #  50
